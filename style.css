@@ -4,3 +4,7 @@
 p{
  text-color:green;
 }
+#nom,#prenom{
+	width:250px;
+	height:100px;
+}
